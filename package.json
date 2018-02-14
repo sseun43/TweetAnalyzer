@@ -1,0 +1,17 @@
+{
+  "name": "digia",
+  "version": "1.0.0",
+  "description": "digia hackhatemia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "samuel",
+  "license": "ISC",
+  "dependencies": {
+    "cross-fetch": "^1.1.1",
+    "express": "^4.16.2",
+    "twitter": "^1.7.1",
+    "watson-developer-cloud": "^3.0.6"
+  }
+}
